@@ -1,0 +1,6 @@
+/home/xyt/learn/opencv/imgproc/build/CMakeFiles/test.dir
+/home/xyt/learn/opencv/imgproc/build/CMakeFiles/test01.dir
+/home/xyt/learn/opencv/imgproc/build/CMakeFiles/test02.dir
+/home/xyt/learn/opencv/imgproc/build/CMakeFiles/test03.dir
+/home/xyt/learn/opencv/imgproc/build/CMakeFiles/edit_cache.dir
+/home/xyt/learn/opencv/imgproc/build/CMakeFiles/rebuild_cache.dir
